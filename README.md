@@ -56,7 +56,7 @@
 
 ![Product Name Screen Shot][product-screenshot]
 
-This smart contract code be apply to simple voting processes in small organization and for any kind of purpose even normal activities. :smile:
+This smart contract could be apply to simple voting processes in small organization and for any kind of purpose even normal activities. :smile:
 
 If you're interested in smart contracts I invite you to study the code and try to replicate by yourself with the help of the solidity documentation. :stars:
 
@@ -82,10 +82,10 @@ In the web app you can create, compile, deploy and interact with smart contracts
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/darubiomunoz/smartcontract-simplestorage.git
+   git clone https://github.com/darubiomunoz/smartcontract-voting.git
    ```
    ```sh
-   git clone git@github.com:darubiomunoz/smartcontract-simplestorage.git
+   git clone git@github.com:darubiomunoz/smartcontract-voting.git
    ```
 
 <!-- USAGE EXAMPLES -->
@@ -126,7 +126,7 @@ Diego Rubio
 [linkedin](https://www.linkedin.com/in/darmdev/)
 darubiomunoz@gmail.com
 
-Project Link: [https://github.com/darubiomunoz/smartcontract-simplestorage.git](https://github.com/darubiomunoz/smartcontract-simplestorage.git)
+Project Link: [https://github.com/darubiomunoz/smartcontract-voting.git](https://github.com/darubiomunoz/smartcontract-voting.git)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## 8. Acknowledgements :clap:
